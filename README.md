@@ -1,2 +1,3 @@
-# fundamentosProg
-Exercícios do Livro Fundamentos da Programação de Computadores
+# Fundamentos da Programação de Computadores
+
+Este projeto contém os exercícios resolvidos deste livro.
