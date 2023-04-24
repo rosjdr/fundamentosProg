@@ -1,9 +1,8 @@
-package br.com.tremdeprogramador.exe1;
+package cap3.exe1;
 
 import java.util.Scanner;
 
-public class Main {
-	
+public class Exercicio1 {
 	public static void main(String args[]) {
 		int n1, n2, resultado;
 		Scanner tec = new Scanner(System.in);
@@ -13,5 +12,4 @@ public class Main {
 		resultado = n1-n2;
 		System.out.println("Subtração = " + resultado);
 	}
-
 }
