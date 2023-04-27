@@ -21,7 +21,5 @@ public class Exercicio2 {
 		
 		BigDecimal multiplicacao = n1.multiply(n2).multiply(n3);
 		System.out.println("MULTIPLICAÇÃO = " + multiplicacao);
-		
-		
 	}
 }
