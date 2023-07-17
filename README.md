@@ -1,3 +1,3 @@
 # Fundamentos da Programação de Computadores
 
-Este projeto contém os exercícios resolvidos deste livro.
+> Este projeto contém os exercícios resolvidos deste livro.
