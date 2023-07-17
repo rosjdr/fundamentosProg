@@ -7,5 +7,6 @@ Exercícios resolvidos do livro
   
 Linguagem C
 * Capítulo 3
+
 Linguagem Java
 * Capítulo 3
